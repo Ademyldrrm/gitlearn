@@ -1,1 +1,2 @@
 denemeye yazı ekledim
+git pull deniyorum
